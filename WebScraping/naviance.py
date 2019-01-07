@@ -5,10 +5,19 @@ Created on Sun Dec 30 08:05:03 2018
 
 @author: topquirk67
 """
-import requests
-from lxml import html
 from bs4 import BeautifulSoup
+import requests
 import time
+import random
+from requests import session
+
+username = 'ghouk@seattleacademy.org'
+password = 'Got5Minuted'
+
+payload = {'action'    : '/sessions',
+           'email'     : username,  # this is from the 'name' tag
+           'password'  : password}  # this is from the 'name' tag
+
 
 
 session_requests = requests.session()
