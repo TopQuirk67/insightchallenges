@@ -1,5 +1,10 @@
 Other Folks Work/
 WebScraping/cooks_images/
+WebScraping/my_backpack_scraper.py
+WebScraping/dom_scraper.py
+WebScraping/dom_images/
+WebScraping/pj_scraper.py
+WebScraping/sq_images/
 UW Data Challenges/
 WebScraping/naviance
 naviance.py
@@ -8,3 +13,7 @@ Patrick's Pandas/Crunchbase/Crunchbase_Startup_Investment_Data.csv
 Private
 Pottermore/Pottermore\ Sorting\ Quiz\ data\ set.xlsx
 Pottermore/PottermoreCSV.csv
+Trupanion\ Data\ Challenge/
+Scrabble/twl2018.txt
+Scrabble/twl2016.txt
+Scrabble/twl2018-new.txt
